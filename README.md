@@ -1,19 +1,69 @@
-![My Banner](./Minimalist%20Charcoal%20Banner%20with%20Cloud%20Logo.png)
-# 💫 About Me:
-# Hey, I'm Vitthal! 👋<br><br>🎓 IMCA Student | Aspiring Cloud & DevOps Engineer<br><br>I'm a passionate tech enthusiast who loves learning, building, and exploring new technologies. Currently, I'm focused on developing my skills in **Cloud Computing, DevOps, Linux, Docker, and Python**.<br><br>### 🚀 What I'm Learning<br><br>- 🐳 Docker & Containerization<br>- ☁️ Cloud Computing & AWS<br>- ⚙️ DevOps & CI/CD<br>- 🐧 Linux & Bash Scripting<br>- 🐍 Python Programming<br>- 🔧 Git & GitHub<br><br>### 🛠️ My Goals<br><br>- Build real-world projects.<br>- Improve my problem-solving skills.<br>- Explore modern cloud technologies.<br>- Become a skilled Cloud & DevOps Engineer.<br><br>### 💡 My Philosophy<br><br>"Learn something new every day, build something useful, and keep improving."<br><br>### 📫 Let's Connect!<br><br>Always open to learning, collaborating, and exploring new technologies.<br><br>**Keep Learning. Keep Building. Keep Growing.** 🚀<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img src="assets/banner-light.png" alt="vɪᴛᴛʜᴀʟ — turning code into cloud infrastructure" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake.svg" alt="Contribution graph animation">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D2D1&background=FFD8D600&width=435&lines=DevOps+Engineer+%C2%B7+Cloud+Enthusiast;Learning+AWS+%C2%B7+Docker+%C2%B7+Kubernetes;CI%2FCD+%C2%B7+Linux+%C2%B7+Infrastructure+Automation;Building+my+journey+in+Cloud+%26+DevOps" alt="DevOps Engineer · Cloud Computing Enthusiast · CI/CD & Infrastructure Automation">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hina-kura49.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://x.com/vs4201676452620"><img src="https://img.shields.io/badge/X-@vs4201676452620-111?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:vitthalkhadse74@gmail.com"><img src="https://img.shields.io/badge/Email-vitthalkhadse74%40gmail.com-C4552A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=vitthalkhadse&style=flat-square&color=5FBFF7&label=Profile+Views" alt="Profile views">
+</p>
+
+## Hi! I'm vɪᴛᴛʜᴀʟ ✨
+
+DevOps and Cloud Computing enthusiast, passionate about building reliable infrastructure, automating workflows, and deploying scalable applications. I work with Docker, Linux, Git, GitHub, AWS, and CI/CD pipelines while exploring Kubernetes and cloud-native technologies.
+
+Currently pursuing Integrated MCA and continuously building hands-on projects to grow as a DevOps Engineer.
+
+Off the keyboard: chess, exploring new technologies, and learning something new every day.
+
+📫 **Work inquiries / Collaboration:** [vitthalkhadse74@gmail.com](mailto:vitthalkhadse74@gmail.com)
+
+🚀 **GitHub:** [github.com/vitthalkhadse](https://github.com/vitthalkhadse)
+## 🚀 Projects
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1237034141816717506) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khadse_x_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vɪᴛᴛʜᴀʟ ᴋʜᴀᴅsᴇツ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/   vɪᴛᴛʜᴀʟ ᴋʜᴀᴅsᴇツ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vitthalkhadse74@gmail.com) 
+## 🌐 Community & Learning
 
-# 💻 Tech Stack:
-![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vitthal Khadse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vitthal Khadse&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vitthal Khadse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### ☁️ DevOps & Cloud Computing
+Exploring cloud infrastructure, Linux, Docker, AWS, Kubernetes, and CI/CD practices while building hands-on projects.
 
----
-[![](https://komarev.com/ghpvc/?username=Vitthal Khadse&icon=0&color=0)](https://visitcount.itsvg.in)
+### 💻 Open Source
+Interested in contributing to open-source projects, learning from developers, and improving software through collaboration.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Personal Projects
+Building practical applications and experimenting with backend development, containerization, and cloud technologies.
+## 📊 Track Record
+
+| ☁️ Cloud & DevOps Learning | 💻 Technology Stack |
+|:---:|:---:|
+| **Ongoing**<br><sub>Cloud · Infrastructure · Automation</sub> | **5+ Technologies**<br><sub>Linux · Docker · AWS · Git · Kubernetes</sub> |
+
+## Stats
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/stats-dark.svg">
+    <img height="170" src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/stats.svg" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/top-langs-dark.svg">
+    <img height="170" src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/top-langs.svg" alt="Top languages">
+  </picture>
+</p>
