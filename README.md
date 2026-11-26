@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="assets/banner-light.png" alt="vɪᴛᴛʜᴀʟ — turning code into cloud infrastructure" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c6c8e837-03a6-41f7-8259-c7c592eb1cab">
+    <img src="https://github.com/user-attachments/assets/c6c8e837-03a6-41f7-8259-c7c592eb1cab" alt="vɪᴛᴛʜᴀʟ — turning code into cloud infrastructure" width="100%">
   </picture>
 </p>
 
