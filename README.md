@@ -59,11 +59,11 @@ Building practical applications and experimenting with backend development, cont
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/stats-dark.svg">
-    <img height="170" src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/stats.svg" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vitthalkhadse&show_icons=true&theme=transparent&title_color=5FBFF7&icon_color=5FBFF7&text_color=FFFFFF&hide_border=true&include_all_commits=true">
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=vitthalkhadse&show_icons=true&theme=transparent&title_color=5FBFF7&icon_color=5FBFF7&text_color=FFFFFF&hide_border=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/top-langs-dark.svg">
-    <img height="170" src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/top-langs.svg" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalkhadse&layout=compact&theme=transparent&title_color=5FBFF7&text_color=FFFFFF&hide_border=true&langs_count=8">
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitthalkhadse&layout=compact&langs_count=8">
   </picture>
 </p>
