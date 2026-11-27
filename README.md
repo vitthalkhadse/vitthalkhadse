@@ -7,8 +7,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake.svg" alt="Contribution graph animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek1106kr/Abhishek1106kr/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek1106kr/Abhishek1106kr/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Abhishek1106kr/Abhishek1106kr/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
