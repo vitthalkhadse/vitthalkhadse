@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:312E81,100:7C3AED&height=200&section=header&text=Vitthal%20Khadse&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" />
+    <img src="https://count.getloli.com/@9?theme=rule34&padding=1&offset=7&align=center&scale=1.3&pixelated=1&darkmode=auto&num=9&prefix=7" />
 </p>
 
 <p align="center">
