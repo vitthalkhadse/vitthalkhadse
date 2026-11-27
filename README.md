@@ -25,46 +25,120 @@
   <a href="mailto:vitthalkhadse74@gmail.com"><img src="https://img.shields.io/badge/Email-vitthalkhadse74%40gmail.com-C4552A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=vitthalkhadse&style=flat-square&color=5FBFF7&label=Profile+Views" alt="Profile views">
 </p>
+# 👋 Hi, I'm Vitthal Khadse
 
-## Hi! I'm vɪᴛᴛʜᴀʟ ✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:312E81,100:7C3AED&height=200&section=header&text=Vitthal%20Khadse&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" />
+</p>
 
-DevOps and Cloud Computing enthusiast, passionate about building reliable infrastructure, automating workflows, and deploying scalable applications. I work with Docker, Linux, Git, GitHub, AWS, and CI/CD pipelines while exploring Kubernetes and cloud-native technologies.
+<p align="center">
+  <a href="https://github.com/vitthalkhadse">
+    <img src="https://komarev.com/ghpvc/?username=vitthalkhadse&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
+  </a>
+</p>
 
-Currently pursuing Integrated MCA and continuously building hands-on projects to grow as a DevOps Engineer.
+---
 
-Off the keyboard: chess, exploring new technologies, and learning something new every day.
+## 📊 The Numbers
 
-📫 **Work inquiries / Collaboration:** [vitthalkhadse74@gmail.com](mailto:vitthalkhadse74@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitthalkhadse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalkhadse&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-🚀 **GitHub:** [github.com/vitthalkhadse](https://github.com/vitthalkhadse)
-## 🚀 Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vitthalkhadse&theme=tokyonight&hide_border=true" width="70%" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vitthalkhadse&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+</p>
 
-## 🌐 Community & Learning
+---
 
-### ☁️ DevOps & Cloud Computing
-Exploring cloud infrastructure, Linux, Docker, AWS, Kubernetes, and CI/CD practices while building hands-on projects.
+## 🛠️ Tools I Use
 
-### 💻 Open Source
-Interested in contributing to open-source projects, learning from developers, and improving software through collaboration.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,postgres,docker,git,github,vscode&theme=dark" />
+</p>
 
-### 🚀 Personal Projects
-Building practical applications and experimenting with backend development, containerization, and cloud technologies.
-## 📊 Track Record
+### ☁️ DevOps & Cloud Technologies
 
-| ☁️ Cloud & DevOps Learning | 💻 Technology Stack |
-|:---:|:---:|
-| **Ongoing**<br><sub>Cloud · Infrastructure · Automation</sub> | **5+ Technologies**<br><sub>Linux · Docker · AWS · Git · Kubernetes</sub> |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,kubernetes,githubactions&theme=dark" />
+</p>
 
-## Stats
+---
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vitthalkhadse&show_icons=true&theme=transparent&title_color=5FBFF7&icon_color=5FBFF7&text_color=FFFFFF&hide_border=true&include_all_commits=true">
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=vitthalkhadse&show_icons=true&theme=transparent&title_color=5FBFF7&icon_color=5FBFF7&text_color=FFFFFF&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalkhadse&layout=compact&theme=transparent&title_color=5FBFF7&text_color=FFFFFF&hide_border=true&langs_count=8">
-    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitthalkhadse&layout=compact&langs_count=8">
-  </picture>
+## 🚀 Currently Learning
+
+- 🐧 Linux & System Administration
+- 🐳 Docker & Containerization
+- ☁️ AWS Cloud Fundamentals
+- ⚙️ CI/CD & GitHub Actions
+- ☸️ Kubernetes Fundamentals
+- 🔧 DevOps Automation
+
+---
+
+## 💻 My Projects
+
+### 🔹 ShareCode
+
+A collaborative browser-based code editor project.
+
+**Technologies:**
+- React + Vite
+- Node.js + Express
+- PostgreSQL
+- Socket.IO
+- Yjs
+- Docker
+
+🔗 [View ShareCode Repository](https://github.com/vitthalkhadse/SHARE-CODE)
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitthalkhadse&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🎓 About Me
+
+- 🎓 Integrated Master of Computer Applications (MCA) Student
+- 🏫 Saraswati College, Shegaon
+- 💻 Interested in Software Development and Cloud Technologies
+- ☁️ Working towards becoming a DevOps Engineer
+- 🚀 Learning by building real-world projects
+- 🌱 Always exploring new technologies
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/vitthalkhadse">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learning every day. Building every day. Growing every day."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0B1026&height=100&section=footer" width="100%" />
 </p>
