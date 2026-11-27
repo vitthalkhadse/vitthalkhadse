@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hina-kura49.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://vitthalkhadse.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://x.com/vs4201676452620"><img src="https://img.shields.io/badge/X-@vs4201676452620-111?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:vitthalkhadse74@gmail.com"><img src="https://img.shields.io/badge/Email-vitthalkhadse74%40gmail.com-C4552A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=vitthalkhadse&style=flat-square&color=5FBFF7&label=Profile+Views" alt="Profile views">
