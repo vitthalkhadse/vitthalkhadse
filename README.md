@@ -1,10 +1,14 @@
+# 👋 Hi, I'm Vitthal Khadse
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/03e304a7-89a2-4ed4-a8f6-dfebf4f5b0de">
-    <img src="https://github.com/user-attachments/assets/03e304a7-89a2-4ed4-a8f6-dfebf4f5b0de" alt="vɪᴛᴛʜᴀʟ — turning code into cloud infrastructure" width="100%">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:312E81,100:7C3AED&height=200&section=header&text=Vitthal%20Khadse&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/vitthalkhadse">
+    <img src="https://komarev.com/ghpvc/?username=vitthalkhadse&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
+  </a>
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek1106kr/Abhishek1106kr/output/pacman-contribution-graph-dark.svg">
@@ -25,17 +29,7 @@
   <a href="mailto:vitthalkhadse74@gmail.com"><img src="https://img.shields.io/badge/Email-vitthalkhadse74%40gmail.com-C4552A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=vitthalkhadse&style=flat-square&color=5FBFF7&label=Profile+Views" alt="Profile views">
 </p>
-# 👋 Hi, I'm Vitthal Khadse
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:312E81,100:7C3AED&height=200&section=header&text=Vitthal%20Khadse&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/vitthalkhadse">
-    <img src="https://komarev.com/ghpvc/?username=vitthalkhadse&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
